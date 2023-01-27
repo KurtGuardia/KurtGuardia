@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on freelance projects, but I'm open to any working opportunity!
+- 🔭 I’m currently working on a Swiss digital agency, but I'm open to combine with freelance opportunities!
 - 🌱 I’m currently learning Node.JS/MongoDB/Express to add to my React knowledge and become a MERN stack programmer
 - 👯 I’m looking to collaborate on modern, creative, challenging world-class applications on a team-based atmosphere
 - 🤔 I’m looking for help with expanding my technical skills and improve my current ones
